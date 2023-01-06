@@ -1,0 +1,197 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: "Poppins", sans-serif;
+    background: white;
+    color: black;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  /* Media Queries */
+
+@media (max-width: 800px) {
+  .hamburger {
+    display: block;
+  }
+
+  .hamburger:hover {
+    opacity: 0.5;
+  }
+
+  .main-nav ul.right-menu {
+    margin-right: 50px;
+  }
+
+  .main-nav ul.main-menu {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #f2f2f2;
+    width: 50%;
+    height: 100%;
+    border-right: #ccc 1px solid;
+    opacity: 0.9;
+    padding: 30px;
+    transform: translateX(-500px);
+    transition: transform 0.6s ease-in-out;
+  }
+
+  .main-nav ul.main-menu li {
+    padding: 10px;
+    border-bottom: #ccc solid 1px;
+    font-size: 17px;
+  }
+
+  .main-nav ul.main-menu li:last-child {
+    border-bottom: 0;
+  }
+
+  .main-nav ul.main-menu.show {
+    transform: translateX(-20px);
+    z-index: 99999;
+  }
+
+  .showcase {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  .showcase p {
+    width: 80%;
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .showcase h2,
+  .showcase p {
+    margin-bottom: 10px;
+  }
+
+  .showcase .btn {
+    margin-top: 20px;
+  }
+
+  .categories {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .covid {
+    font-size: 15px;
+  }
+
+  .covid p {
+    font-size: 15px;
+}
+
+.covid-btn {
+    padding: 0px 20px;
+    font-size: 15px;
+}
+
+  .links .links-inner {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .footer-inner {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer-inner ul {
+    border-right: none;
+    margin-bottom: 5px;
+  }
+
+  .footer-inner div {
+    border-right: none;
+    margin-bottom: 5px;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 630px) {
+  .right-menu li a span {
+    display: none;
+  }
+
+  .right-menu li div {
+    display: none;
+  }
+
+  .showcase img {
+    height: 40vh !important;
+  }
+
+  .partner ul a img {
+    width: 100px;
+  }
+
+  .categories {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .covid {
+    font-size: 10px;
+  }
+
+  .covid p {
+    font-size: 13px;
+}
+
+.covid-btn {
+    padding: 0px 20px;
+    font-size: 15px;
+}
+  
+  .locate h3 {
+    font-size: 20px;
+  }
+  
+  .drop select {
+    font-size: 18px;
+  }
+  
+  .locate img {
+    width: 40px;
+  }
+
+  .links .links-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .footer li a {
+    margin-right: 10px;
+    margin-bottom: 50px;
+    color: #111111;
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 430px) {
+  .partner ul a img {
+    width: 70px;
+  }
+
+  .footer li a {
+    margin-right: 5px;
+    margin-bottom: 2px;
+    color: #111111;
+    font-size: 12px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 160px) {
+  body {
+    display: none;
+  }
+}

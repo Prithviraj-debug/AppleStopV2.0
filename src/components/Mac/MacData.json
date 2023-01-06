@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.reliancedigital.in/medias/Apple-MGND3HNA-Laptops-491946465-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNzY2MTF8aW1hZ2UvanBlZ3xpbWFnZXMvaDI3L2hiNS85NDQzMDkxMTIwMTU4LmpwZ3w2MjI5MThmNzY4Njk0MmZhNDc3Y2UzMGM4ODM0ZmY0YzFmNjNjYzkxMDM0ZWJlZGVkMWFmNDc0YTEwODE5Njcw",
+        "title": "MacBook Air",
+        "desc": "33.78 cm (13.3 inch) Retina Display Apple M1 Chip 8 GB Unified Memory Backlit Magic Keyboard"
+    },
+    
+    {
+        "id": 2,
+        "img": "https://www.reliancedigital.in/medias/Apple-MYD82HNA-Laptops-491946467-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNTc4NjB8aW1hZ2UvanBlZ3xpbWFnZXMvaDRjL2gzMS85NDQzMDkxNzc1NTE4LmpwZ3wwNTU0NWIzOGNhNzZjZDE2MDg2MGExYmI4YWVhMzMwZjM4NTBlOGU1NWVmZjYxMjg1YTcyYWNmODA1YzE5NTJj",
+        "title": "Apple MacBook Pro 13",
+        "desc": "Apple M1 Chip / 8GB /256GB SSD / macOS Big Sur / Retina"
+    },
+    
+    {
+        "id": 3,
+        "img": "https://www.reliancedigital.in/medias/Apple-MVVJ2HN-A-Laptops-491615328-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MDMxOXxpbWFnZS9qcGVnfGltYWdlcy9oZDUvaDAxLzkyMjU3NTc5ODI3NTAuanBnfGRhNDA5YzM3NTBmNjUxY2NmMjUwOTg3YTViMTYxNjM4Yzc5YzkyNzYxZDg1MjhkOTJlOTA2YmExYmEyZTQ4YzA",
+        "title": "MacBook Pro 16",
+        "desc": "2.6GHz 6-core 9th-Gen i7, 16GB, 512GB SSD,40.64 cm (16 Inch) Retina Display, Space Grey"
+    },
+    
+    {
+        "id": 4,
+        "img": "https://www.reliancedigital.in/medias/iMac-MGPM3-8GB-256GB-Pink-MGPM3HN-A-Desktop-and-All-in-one-491996580-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2MDk0OXxpbWFnZS9qcGVnfGltYWdlcy9oNzcvaGE0Lzk1NDIxMjIyNDIwNzguanBnfGI2YTIwZGI3YWRhYTIxY2ZjNTY4OWI5NDkxYjkyMjczNzc2NDRiZDIzNTIwYWI3ZDM2MDFiNTdjNTFkZDUxMTg",
+        "title": "Apple iMac 24",
+        "desc": "60.96 cm (24-inch) Retina 4.5K Display Apple 8-core M1 chip, Support for 'Hey Siri' 4480 x 2520 resolution, 500 nits Brightness 1080p FaceTime HD camera with M1 ISP"
+    },
+    
+    {
+        "id": 5,
+        "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/imac-27-selection-hero-202008?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1594932848000",
+        "title": "Apple iMac 27",
+        "desc": "3.1GHz 6-Core Processor with Turbo Boost up to 4.5GHz 256GB Storage Retina 5K Display"
+    },
+    
+    {
+        "id": 6,
+        "img": "https://help.apple.com/assets/5E9759AA680CE290321CE8C3/5E989A9A680CE217771C78AD/en_US/fbac8523b0d81e806024f9d46cb3b976.png",
+        "title": "Apple Mac Pro",
+        "desc": "Customise your new Mac Pro tower enclosure with up to 28 cores of power, up to 1.5TB of memory and Radeon Pro Vega II Duo."
+    },
+    
+    {
+        "id": 7,
+        "img": "https://res-1.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1280,q_auto,w_1280/v1585640632/pqiti3mxl4hvwzqgz5uf.png",
+        "title": "Apple Mac Mini",
+        "desc": "Intel® i3-8100B Processor, 8GB Memory, 256GB SSD Storage"
+    }
+]

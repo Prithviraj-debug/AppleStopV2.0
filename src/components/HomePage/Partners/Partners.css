@@ -1,0 +1,36 @@
+.partners {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.192);
+    margin-bottom: 20px;
+  }
+  
+  .partners h3 {
+    text-align: center;
+    font-size: 25px;
+    padding-top: 40px;
+  }
+  
+  .partner {
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .partner ul a img {
+    width: 140px;
+  }
+  
+  .partner a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 2px;
+  }
+  
+  .partner a div {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+  }

@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    width: 90%;
+    max-width: 1300px;
+    margin: auto;
+  }
+  
+  body {
+    font-family: "Poppins", sans-serif;
+    background: white;
+    color: black;
+    font-size: 15px;
+    line-height: 1.5;
+    
+  }
+  
+  a {
+    color: #262626;
+    text-decoration: none;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  /* .container {
+    width: 90%;
+    max-width: 1300px;
+    margin: auto;
+  } */
+  

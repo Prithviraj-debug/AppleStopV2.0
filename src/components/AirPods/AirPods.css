@@ -1,0 +1,26 @@
+ 
+  .max {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .max img {
+    width: 100%;
+  }
+  
+  .max a {
+    display: inline-block;
+    padding-top: 10px;
+    color: #0067b8;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  .max i {
+    transition: 0.6s ease-in-out;
+  }
+  
+  .max a:hover i {
+    margin-left: 10px;
+  }

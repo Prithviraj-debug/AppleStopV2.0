@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "img": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG18.png",
+        "title": "Iphone 12",
+        "desc": "iPhone 12. A14 Bionic. Ceramic Shield. A new edge-to-edge OLED display. And Night mode on every camera."
+    },
+
+    {
+        "id": 2,
+        "img": "https://imagineonline.store/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzgrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--12b3113481cd074f57e83f57d0f8534b6b946480/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lQTVRBd01IZ3hNREF3UGdZNkJrVlUiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--3847b42f42b1c45c616f0212496bf183b1d8c25d/MGMT3HN_A_2.png",
+        "title": "Iphone 12 Pro",
+        "desc": "A huge leap for Pro. A new era of speed., iPhone 12 Pro. Beautifully bright 6.1-inch Super Retina XDR display. Ceramic Shield with 4x better drop ..."
+    },
+
+    {
+        "id": 3,
+        "img": "http://callmobilegalaxy.com/wp-content/uploads/2021/05/Apple-iPhone-12-Pro-Max-Gold.png",
+        "title": "Iphone 12 Pro Max",
+        "desc": "A14 Bionic rockets past every other smartphone chip. The Pro camera system takes low-light photography to the next level — with an even bigger"
+    },
+
+    {
+        "id": 4,
+        "img": "https://pngimg.com/uploads/iphone_11/iphone_11_PNG38.png",
+        "title": "Iphone 11",
+        "desc": "6.1 inch Liquid Retina HD 1792 x 828 display 12 MP + 12 MP dual primary camera 12 MP selfie camera, iOS 13 operating system A13 Bionic chip, splash, water & dust resistant."
+    },
+
+    {
+        "id": 5,
+        "img": "http://assets.stickpng.com/thumbs/5e90a856c7c8f9000434dd97.png",
+        "title": "iPhone 11 Pro",
+        "desc": "14.73 cm (5.8 inch) Super Retina XDR 2436 x 1125 display 12 MP + 12 MP + 12 MP triple primary camera 12 MP selfie camera, iOS 13 operating system A13 Bionic chip, splash, water & dust resistant."
+    }
+]

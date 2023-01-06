@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airtag-single-select-202104?wid=445&hei=445&fmt=jpeg&qlt=95&.v=1617761671000",
+        "title": "AirTag",
+        "price": 3190
+    },
+    
+    {
+        "id": 2,
+        "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airtag-4pack-select-202104?wid=445&hei=445&fmt=jpeg&qlt=95&.v=1617761669000",
+        "title": "AirTag 4 pack",
+        "price": 10900
+    }
+]

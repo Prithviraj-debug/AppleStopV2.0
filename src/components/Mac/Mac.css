@@ -1,0 +1,14 @@
+.macshow {
+    background-image: url("https://www.apple.com/v/macbook-pro-13/g/images/overview/hero_endframe__bsza6x4fldiq_large.jpg") ;
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .macshow h1 {
+    color: white;
+    text-align: center;
+    height: 600px;
+    padding-top: 250px;
+  }

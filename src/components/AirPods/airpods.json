@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-wireless-charge-case-201910?wid=150&hei=195&fmt=png-alpha&.v=1570816694068",
+        "title": "AirPods",
+        "desc": [
+            "Universal fit",
+            "H1 chip",
+            "“Hey Siri” always on",
+            "Up to 5 hours of listening time (on one charge)",
+            "More than 24 hours of listening time (with Wireless Charging Case)",
+            "Wireless Charging Case",
+            "Personalised engraving with initials, emoji and more"
+        ]
+    },
+    
+    {
+        "id": 2,
+        "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MWP22?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1591634795000",
+        "title": "AirPods Pro",
+        "desc": [
+            "Active Noise Cancellation",
+            "More customisable fit and seal",
+            "Transparency mode",
+            "Amazing sound quality with Adaptive EQ",
+            "Sweat and water-resistant (IPX4)",
+            "Automatically on, automatically connected",
+            "Easy setup for all your Apple devices"
+        ]
+    }
+]

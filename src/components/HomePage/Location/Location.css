@@ -1,0 +1,66 @@
+.locate {
+    /* position: absolute; */
+    width: 100% !important;
+    height: 300px;
+    /* width: auto; */
+    background-color: black;
+    color: #a1a1a1;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .locate h3 {
+    padding-top: 20px;
+    font-size: 30px;
+    font-weight: normal;
+    margin-bottom: 20px;
+  }
+  
+  .drop select {
+    background: none;
+    color: #a1a1a1;
+    border: none;
+    width: 200px;
+    font-size: 25px;
+  }
+  
+  .drop select option {
+    background: black;
+    border: none;
+  }
+  
+  .locate a {
+    color: #a1a1a1;
+    font-size: 22px;
+    padding-top: 20px;
+    display: inline-block;
+    padding-top: 10px;
+    color: #0067b8;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .locate i {
+    transition: 0.6s ease-in-out;
+  }
+  
+  .locate a:hover i {
+      margin-left: 10px;
+  }
+  
+  .locate img {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 60px;
+    margin: 0 auto;
+  }
+  
+  .apple {
+      color: brown;
+  }
+  
+  .locate p {
+      color: rgb(179, 179, 179);
+  }

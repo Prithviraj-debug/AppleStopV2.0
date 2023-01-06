@@ -1,0 +1,26 @@
+.links {
+    background: #f3f3f3;
+    color: #616161;
+    font-size: 15px;
+    padding: 35px 0;
+  }
+  
+  .links-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 50px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    align-items: flex-start;
+    justify-content: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.192);
+  }
+  
+  .links li {
+    line-height: 2;
+  }
+  
+  .links li:hover a {
+    border-bottom: 1px solid #262626;
+  }
